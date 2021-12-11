@@ -1,0 +1,11 @@
+.more{
+    position: absolute;
+    bottom: 8px;
+    right: 8px;
+    font-size: 20px;
+    text-align: end;
+}
+
+.home-block-label{
+    width: 20px;
+}

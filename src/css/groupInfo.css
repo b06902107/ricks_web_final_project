@@ -1,0 +1,51 @@
+.member-name{
+  text-align: center;
+  padding-top: 10px;
+  font-size: 35px;
+  font-weight: 500;
+  font-family: cursive;
+}
+
+.member-grade{
+  margin-top: 25px;
+  text-align: center;
+  font-size: 28px;
+  font-family: cursive;
+}
+
+.member-email{
+  margin-top: 25px;
+  text-align: center;
+  font-size: 20px;
+  font-family: cursive;
+}
+
+.member-score{
+  margin-top: 10px;
+  text-align: center;
+}
+
+.member-action{
+  margin-top: 8px;
+  text-align: end;
+}
+
+.member-dialog{
+  width: 300px;
+  margin: auto;
+}
+
+.member-content{
+  height: 100px;
+  padding: 40px 20px;
+  display: flex;
+}
+
+.member-label{
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.join{
+  margin-left: 100px !important;
+}

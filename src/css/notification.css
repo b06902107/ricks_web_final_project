@@ -1,0 +1,19 @@
+.notification_container
+{
+    overflow: hidden;
+    align-content: center;
+    margin: 0em auto;
+    width: 800px;
+}
+
+#notification_header
+{
+    position: relative;
+    float: center;
+    align-content: center;
+    margin: auto;
+    padding: 0em 0em;
+}
+
+
+

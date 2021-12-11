@@ -1,0 +1,36 @@
+.grow{
+  flex-grow: 1;
+  
+}
+
+.menuButton{
+  margin-right: 16px !important;
+}
+
+.header-right{
+  display: flex;
+}
+
+.nav-bar{
+  display: flex;
+  margin-left: 60px;
+}
+
+.nav-item{
+  color: white;
+  margin-right: 25px;
+}
+
+.nav-item:hover{
+  color: #808080;
+  text-decoration: none;
+}
+
+.nav-main{
+  color: white;
+}
+
+.nav-main:hover{
+  color: white;
+  text-decoration: none;
+}

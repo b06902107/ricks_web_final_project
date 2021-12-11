@@ -1,0 +1,60 @@
+body{
+  margin-top: 100px ;
+  background-color: white;
+}
+.home-main{
+  padding: 0px 50px;
+}
+.home-block{
+  height: 400px;
+  background-color: white !important;
+  border: 1px solid gray;
+  border-radius: 5px;
+  position: relative;
+  box-shadow: 10px 10px 5px #888888 !important;
+}
+
+.home-block-main{
+  margin-top: 30px;
+}
+.home-title{
+  padding: 30px 20px 30px 20px;
+  color: black;
+  font-family: cursive;
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.home-block-item {
+  position: relative;
+  display: flex;
+  margin-top: 25px;
+  padding-left: 8px;
+  padding-right: 8px;
+  font-size: 20px;
+  color: black;
+  line-height: 1.5;
+}
+
+.home-block-link{
+  margin-left: 5px;
+  color: black;
+  padding-right: 100px;
+}
+
+.link-right{
+  display: inline;
+  position: absolute;
+  right: 8px;
+}
+.department-name{
+  margin-top: 10px;
+  font-size: 35px;
+  text-align: center;
+  font-family: fantasy;
+}
+
+.home-subtitle{
+  padding-left: 8px;
+  font-size: 30px;
+}
